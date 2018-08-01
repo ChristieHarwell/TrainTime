@@ -9,12 +9,11 @@
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyD9vwt12fR4AbMdDIWudJRRorrRbkEnDYY",
-  authDomain: "ch-traintime.firebaseapp.com",
-  databaseURL: "https://ch-traintime.firebaseio.com",
-  projectId: "ch-traintime",
-  storageBucket: "ch-traintime.appspot.com",
-  messagingSenderId: "371581851136"
+  apiKey: "AIzaSyBQBvhHiNc2qPRMuieMklJ5ilhPW1Xerqw",
+  authDomain: "traintimefirebase.firebaseapp.com",
+  databaseURL: "https://traintimefirebase.firebaseio.com",
+  projectId: "traintimefirebase",
+  storageBucket: "traintimefirebase.appspot.com",
 };
 
 firebase.initializeApp(config);
